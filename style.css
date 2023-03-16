@@ -1,0 +1,21 @@
+.para1{
+    color: red;
+ }
+ ol li{
+     color: brown;
+     padding-block: 10px;
+ }
+ .heading {
+     color: orangered;
+ }
+ ul{
+     color: brown;
+     letter-spacing: 4px;
+ }
+ .background{
+     background-color: yellow;
+ }
+ .para2{
+     color:rgb(128, 13, 36);
+ }
+ 
